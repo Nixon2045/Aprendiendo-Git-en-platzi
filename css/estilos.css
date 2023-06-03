@@ -1,5 +1,5 @@
 #cabecera{
-    color:  red;
+    color: #746;
     text-align: center;
     font-family: "calibri";
 
@@ -7,7 +7,7 @@
 
 body
 {
-    color: #333;
+    color: green;
     text-align: center;
     font-family: "Arial";
 }
