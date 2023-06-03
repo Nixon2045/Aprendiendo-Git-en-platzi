@@ -5,13 +5,9 @@
 
 }
 
-body
+#body1
 {
-<<<<<<< HEAD
     color: #333;
-=======
-    color: green;
->>>>>>> cabezera
     text-align: center;
     font-family: "Arial";
 }
