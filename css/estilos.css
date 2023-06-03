@@ -1,6 +1,13 @@
+#cabecera{
+    color:  red;
+    text-align: center;
+    font-family: "calibri";
+
+}
+
 body
 {
-    color: green;
+    color: #333;
     text-align: center;
     font-family: "Arial";
 }
