@@ -1,12 +1,21 @@
 #cabecera{
+    background: #33A, url("../imagenes/Rosa_proyecto.png") 10px 10px;
     color: #746;
     text-align: center;
     font-family: "calibri";
+    padding: 0.5em 0 0.5em 7em;
 
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #body1
 {
+    background: black;
     color: #333;
     text-align: center;
     font-family: "Arial";
