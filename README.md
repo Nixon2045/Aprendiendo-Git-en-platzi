@@ -7,3 +7,4 @@ Ejemplos de uso para cherry pick
 *recordar comando de git diff para visualizar cambios hechos en los commits
 *comando viejo seleccionado
 *supuestamente es mala practica
+*agregar  un commit mas para prueba
